@@ -1,11 +1,11 @@
 # 🎓 Azure Certifications — Ressources Gratuites en Français
 
 Bienvenue ! Ce repo contient toutes les ressources gratuites de la chaîne YouTube
-**[NOM DE TA CHAINE]** — PowerPoints, schémas whiteboard et guides pour 
+**NdaoTech* — PowerPoints, schémas whiteboard et guides pour 
 préparer les certifications Microsoft Azure en français.
 
 ## 📺 La chaîne YouTube
-🔗 [Lien vers ta chaîne]
+🔗 https://www.youtube.com/@NdaoTech
 
 ## 📂 Ressources disponibles
 
