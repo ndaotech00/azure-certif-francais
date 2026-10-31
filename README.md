@@ -9,23 +9,23 @@ préparer les certifications Microsoft Azure en français.
 
 ## 📂 Ressources disponibles
 
-### Playlist 0 — Bases du Cloud (AZ-900)
+### Playlist 0 - Bases du Cloud (AZ-900)
 | Vidéo | Ressources |
 |---|---|
-| Vidéo 01 — C'est quoi le Cloud ? | PowerPoint · Miniature |
-| Vidéo 02 — C'est quoi Microsoft Azure ? | PowerPoint · 4 Whiteboards · Guide |
-| Vidéo 03 — Créer son compte Azure | PowerPoint |
+| Vidéo 01 - C'est quoi le Cloud ? | PowerPoint · Miniature |
+| Vidéo 02 - C'est quoi Microsoft Azure ? | PowerPoint · 4 Whiteboards · Guide |
+| Vidéo 03 - Créer son compte Azure | PowerPoint |
 
-### Playlist 2 — Microsoft Entra ID
+### Playlist 2 - Microsoft Entra ID
 | Vidéo | Ressources |
 |---|---|
-| Vidéo 01 — Histoire + Créer son Tenant | PowerPoint |
+| Vidéo 01 - Histoire + Créer son Tenant | PowerPoint |
 
 ## 🎯 Certifications couvertes
-- ☁️ AZ-900 — Azure Fundamentals
-- 🛡️ SC-900 — Security, Compliance & Identity
-- ⚙️ AZ-104 — Azure Administrator
-- 🔐 SC-300 — Identity & Access Administrator
+- ☁️ AZ-900 - Azure Fundamentals
+- 🛡️ SC-900 - Security, Compliance & Identity
+- ⚙️ AZ-104 - Azure Administrator
+- 🔐 SC-300 - Identity & Access Administrator
 
 ## 📚 Ressources officielles Microsoft
 - [Microsoft Learn](https://learn.microsoft.com/fr-fr/)
